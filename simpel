@@ -84,8 +84,68 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&ext
 
 @@@@@@@ TV NASIONAL @@@@@@@
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="INDONESIA", TRANS 7
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",Citra Drama
+https://dl.dropbox.com/s/7fr4ogwy8pmpn2s/citra.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766
+#EXTINF:-1  group-title="INDIHOME",NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",SBS LIVE
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",MYTV
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",HI TV
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",Fox Action Movies
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",FOX ACTION MOVI
+http://203.153.218.28:9981/stream/channelid/1744735983
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",AXN
+http://203.153.218.28:9981/stream/channelid/882386103
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",TLC
+http://203.153.218.28:9981/stream/channelid/391618553
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",DISNEY
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",KBS2HD LARVA
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",3ABNKIDS.TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",BEBY FIRST
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",GEM JUNIOR
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",DISNEY CHANNEL
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=7067922419741D51CC687FB596AF9C5D3C913703&profile=pass 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",FOX MOVISE
+http://203.153.218.28:9981/stream/channelid/1744735983
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5C3MPB/ASTV.png" group-title="INDIHOME",Indosiar
+http://203.153.218.28:9981/stream/channelid/261435212
