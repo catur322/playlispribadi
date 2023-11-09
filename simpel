@@ -79,3 +79,13 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=83453&ext
 http://51.75.71.80:31321/DAZN_F1/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 5
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&extension=ts&play_token=7ftpv9VAE5
+
+
+
+@@@@@@@ TV NASIONAL @@@@@@@
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
