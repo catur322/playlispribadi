@@ -80,10 +80,8 @@ http://51.75.71.80:31321/DAZN_F1/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 5
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&extension=ts&play_token=7ftpv9VAE5
 
-
 #EXTM3U 
-#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/catur322/playlispribadi/main/logoflag.png"#@@🇮🇩NASIAONAL@@#", F1 1
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",ANTV (720p) [Geo-blocked]
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",ANTV (720p)
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/MTR4GuF.png" group-title="Undefined",Al Binaa TV (720p)
 https://master.antosatriani.workers.dev/channel/UCdq-DJ5MS7qjd1aXPFg71Yg.m3u8?checkedby:iptvcat.com
