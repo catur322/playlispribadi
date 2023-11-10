@@ -82,7 +82,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&ext
 
 
 #EXTM3U 
-#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/catur322/playlispribadi/main/logoflag.png"#@@🇮🇩NASIAONAL@@#", 1
+#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/catur322/playlispribadi/main/logoflag.png"#@@🇮🇩NASIAONAL@@#", F1 1
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",ANTV (720p) [Geo-blocked]
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/MTR4GuF.png" group-title="Undefined",Al Binaa TV (720p)
