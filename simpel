@@ -1,4 +1,4 @@
-i
+
 
 
 
@@ -56,7 +56,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 #EXTINF:-1 tvg-name="Indosiar3" tvg-id="Indosiar3" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar3
 http://xtv.ooo:8080/88876776555/87677666654/350972
 #EXTINF:-1 tvg-name="Indosiar4" tvg-id="Indosiar4" group-title="ZECK TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Indosiar4
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩JUARA TV🇮🇩#", JUARA TV 5 LIVE 1
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303022_&extension=ts
@@ -86,5 +86,4 @@ http://51.75.71.80:31321/DAZN_F1/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 5
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&extension=ts&play_token=7ftpv9VAE5
 
-#EXTINF
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/catur322/playlispribadi/main/simpel"/logo.png" https://livestream.zazerconer.workers.dev/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
+
