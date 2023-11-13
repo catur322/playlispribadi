@@ -134,6 +134,9 @@ http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lit
 #EXTINF:-1 tvg-name="TV ONE" tvg-id="TV ONE" group-title="TV LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TV ONE
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="TV LOKAL" tvg-id="inews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
