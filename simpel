@@ -1,4 +1,4 @@
-o#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/G2-7tMf3GupYY8rUQggazFxVBfo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3063575/c4b16b.jpg",19.00 Wib - Mexico Vs Germany - Fifa U-17 World Cup 2023 - 12/11/2023
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/G2-7tMf3GupYY8rUQggazFxVBfo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3063575/c4b16b.jpg",19.00 Wib - Mexico Vs Germany - Fifa U-17 World Cup 2023 - 12/11/2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9df0b1f9a0c34b5e93ef6a67442781b8:062f230a8d693352ac707b0231b28c8a
 https://d16v4rolnwizs0.cloudfront.net/out/v1/b6dd5174fe0d499ea082b588dbedf9f5/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
@@ -138,6 +138,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="TV LOKAL" tvg-id="inews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mooncang.my.id/api/rplus/ch.m3u8?id=inews
 
 
 
