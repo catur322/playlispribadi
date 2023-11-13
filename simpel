@@ -1,3 +1,7 @@
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/G2-7tMf3GupYY8rUQggazFxVBfo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3063575/c4b16b.jpg",19.00 Wib - Mexico Vs Germany - Fifa U-17 World Cup 2023 - 12/11/2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9df0b1f9a0c34b5e93ef6a67442781b8:062f230a8d693352ac707b0231b28c8a
+https://d16v4rolnwizs0.cloudfront.net/out/v1/b6dd5174fe0d499ea082b588dbedf9f5/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/RgUJFEcApiq9uwRGYyw8zbT7iTo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3063561/940822.jpg",19.00 Wib - Korea Republic Vs Usa - Fifa U-17 World Cup 2023 - 12/11/2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2afc467047224a8e955f4a3791af4c9a:f0059014d67c19a463bb17175cee9cb2
