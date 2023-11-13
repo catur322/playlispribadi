@@ -116,29 +116,6 @@ https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-name="Alqur'antv" tvg-id="Alqur'antv" group-title="TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Alqur'antv
 https://livestream.zazerconer.workers.dev/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
-#EXTINF:-1 group-title="National" tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",Indosiar
-http://203.29.26.22:8000/play/a05k/index.m3u8
-https://mooncang.my.id/api/vidio/ch.m3u8?id=205&code=indosiar
-#http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-
-#EXTINF:-1 group-title="National" tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",Indosiar
-http://203.29.26.22:8000/play/a05k/index.m3u8
-https://mooncang.my.id/api/vidio/ch.m3u8?id=205&code=indosiar
-#http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-
-#EXTINF:-1 group-title="National" tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
-http://203.29.26.22:8000/play/a05j/index.m3u8
-https://mooncang.my.id/api/vidio/ch.m3u8?id=204&code=sctv
-#http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-
-#EXTINF:-1 group-title="National" tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
-http://203.29.26.22:8000/play/a05l/index.m3u8
-https://mooncang.my.id/api/vidio/ch.m3u8?id=206&code=moji
-http://210.210.155.35/qwr9ew/s/s41/index.m3u8
-
-#EXTINF:-1 group-title="National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
-http://203.29.26.22:8000/play/a05m/index.m3u8
-https://mooncang.my.id/api/vidio/ch.m3u8?id=8237&code=mentari-tv
 
 
 
