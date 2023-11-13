@@ -117,69 +117,6 @@ https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-name="Alqur'antv" tvg-id="Alqur'antv" group-title="TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Alqur'antv
 https://livestream.zazerconer.workers.dev/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩JUARA TV🇮🇩#", JUARA TV 5 LIVE 1
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303022_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩JUARA TV🇮🇩#", JUARA TV 6 LIVE 1
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303021_&extension=ts
-
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar* 
-#EXTGRP:National
-https://github.com/OngisMbois/iptv/raw/main/indosiar.m3u8
-
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar 
-#EXTGRP:National
-http://103.152.118.53:80/streams/indosiar_2/index.m3u8
-
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar HD
-#EXTGRP:National
-http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162138
-
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar
-#EXTGRP:National
-http://103.152.118.53:80/streams/indosiar/index.m3u8
-
-#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV*
-#EXTGRP:National
-https://github.com/OngisMbois/iptv/raw/main/sctv.m3u8
-
-#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
-#EXTGRP:National
-http://103.152.118.53:80/streams/esceteve/index.m3u8
-
-#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
-#EXTGRP:National
-http://103.152.118.53:80/streams/esceteve_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
-#EXTGRP:National
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV HD
-#EXTGRP:National
-http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162141
-
-#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji*
-#EXTGRP:National
-https://github.com/OngisMbois/iptv/raw/main/moji.m3u8
-
-#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
-#EXTGRP:National
-http://103.152.118.53:80/streams/moji_2/index.m3u8
-
-#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji HD
-#EXTGRP:National
-http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298550
-
-
-
-
-
-
-
-
-
-
-
 
 
 
