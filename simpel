@@ -123,9 +123,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-name="indosiar" tvg-id="indosiar" group-title="TV LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",indosiar
 http://103.166.27.2:8112/play/a016/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-name="SCTV" tvg-id="SCTV" group-title="TV LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
+http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
 
 
 
