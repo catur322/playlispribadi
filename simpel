@@ -125,6 +125,7 @@ http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-name="SCTV" tvg-id="SCTV" group-title="TV LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
+
 #EXTINF:-1 tvg-name="SCTV" tvg-id="SCTV" group-title="TV LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 http://103.166.27.2:8112/play/a015/index.m3u8
 
