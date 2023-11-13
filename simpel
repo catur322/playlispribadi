@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/G2-7tMf3GupYY8rUQggazFxVBfo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3063575/c4b16b.jpg",19.00 Wib - Mexico Vs Germany - Fifa U-17 World Cup 2023 - 12/11/2023
+o#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/G2-7tMf3GupYY8rUQggazFxVBfo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3063575/c4b16b.jpg",19.00 Wib - Mexico Vs Germany - Fifa U-17 World Cup 2023 - 12/11/2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9df0b1f9a0c34b5e93ef6a67442781b8:062f230a8d693352ac707b0231b28c8a
 https://d16v4rolnwizs0.cloudfront.net/out/v1/b6dd5174fe0d499ea082b588dbedf9f5/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
@@ -125,11 +125,8 @@ http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-name="SCTV" tvg-id="SCTV" group-title="TV LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
-
-
-
-
-
+#EXTINF:-1 tvg-name="SCTV" tvg-id="SCTV" group-title="TV LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
+http://103.166.27.2:8112/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
