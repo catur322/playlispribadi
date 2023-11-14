@@ -115,8 +115,9 @@ https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-name="Alqur'antv" tvg-id="Alqur'antv" group-title="TV LOKAL" tvg-logo="http://gg.gg/15dr5r",Alqur'antv
 https://livestream.zazerconer.workers.dev/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
-
-#EXTINF:-1 tvg-name="indosiar" tvg-id="indosiar" group-title="TV LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",indosiar
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-id="INDOSIAR" group-title="TV LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",INDOSIAR
 https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
 
 #EXTINF:-1 tvg-name="indosiar" tvg-id="indosiar" group-title="TV LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",indosiar
@@ -136,7 +137,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="TV LOKAL" tvg-id="inews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png",iNews
+#EXTINF:-1 group-title="TV LOKAL" tvg-id="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://mooncang.my.id/api/rplus/ch.m3u8?id=inews
