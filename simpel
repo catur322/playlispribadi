@@ -649,3 +649,186 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPr
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" group-title="NEWS",TVRI WORLD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
 
+########################## LIFESTYLE ##########################
+
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png",TLC (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png",TLC (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="LIFESTYLE",The Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium384/index.m3u8
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="" group-title="LIFESTYLE",The Food Network (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="" group-title="LIFESTYLE",The Food Network (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="" group-title="LIFESTYLE",Asian Food Network (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg",Lifetime Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Na1vGXR.png" group-title="LIFESTYLE",Fashion TV Midnight Secret(*)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png", HGTV (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="LIFESTYLE",Eat N Go
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="LIFESTYLE" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg", DENS Life & Style
+http://210.210.155.35/x6bnqe/s/s65/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=DENS_Life_n_Style
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="LIFESTYLE" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg", Dens Food Channel
+http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Food_Channel_Trial-
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="LIFESTYLE", Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="LIFESTYLE" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg", DensPlay
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=DensPlay
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png",Lifestyle & Fashion
+https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_79.jpg",M Shop Signature
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.jpg",M Shop Super Sale!
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
+
+########################## INTERNATIONAL TV ##########################
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang World
+https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png",ABC Australia Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-asie-fr.png",TV5Monde Asie
+https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png",Xing Kong TV
+https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png",Anhui TV
+https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png",Hunan TV
+https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV
+https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
+https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI (My)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/1006/default.mpd
+
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",Shenzen TV (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8
+
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",Zhejiang TV (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8
+
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",TVB Asia (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8
+
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",TVB News (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch217%29/index.m3u8
+
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",TVB Xinghe (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8
+
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",Sony Max (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
+
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",Sony TV(F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="INTERNATIONAL TV",MBC
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSI4kky.png" group-title="INTERNATIONAL TV",Dubai One
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="INTERNATIONAL TV",Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="INTERNATIONAL TV" tvg-id="392" tvg-name="392", KBS World HD
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="INTERNATIONAL TV",Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E4l3jm1.png" group-title="INTERNATIONAL TV",ERT World
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/092e2aca4ac357873f858ba49ab406dd.png" group-title="INTERNATIONAL TV",France 5
+http://69.64.57.208:8080/france5/playlist.m3u8 
+
+
+
