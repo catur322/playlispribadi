@@ -37,56 +37,6 @@ https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 14
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 1 
-http://tvkuonline.my.id:25461/riyad/riyad/14
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 2
-http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/162138
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 3
-http://iptvtree.net:8080/mitrovic/ff9bb47a59/162138
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 4
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/162138
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ss3liga1.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SPORTSTARS 3 LIVE 1
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60411
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ss3liga1.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SPORTSTARS 3 LIVE 2
-http://iptvtree.net:8080/mitrovic/ff9bb47a59/298549
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ss3liga1.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SPORTSTARS 3 LIVE 3
-http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298549
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ss4liga1.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#",  SPORTSTARS 4 LIVE 4
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 1
-http://tvkuonline.my.id:25461/riyad/riyad/24
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 2
-http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298550
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 3
-http://kuchini.site:8080/F30140/f3de2280/298550
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 4
-http://iptvtree.net:8080/mitrovic/ff9bb47a59/298550
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 1
-http://tvkuonline.my.id:25461/riyad/riyad/16
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 2
-http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/162141
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 3
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/162141
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 4
-http://iptvtree.net:8080/mitrovic/ff9bb47a59/162141
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolVS008wKTHvfAZeFaefVzjf_BZgYL1mKVg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", RCTI LIVE 1
-http://tvkuonline.my.id:25461/riyad/riyad/8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolVS008wKTHvfAZeFaefVzjf_BZgYL1mKVg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", RCTI LIVE 2
-http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/157591
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolVS008wKTHvfAZeFaefVzjf_BZgYL1mKVg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", RCTI LIVE 3
-http://iptvtree.net:8080/mitrovic/ff9bb47a59/157591
-
 ////////               TV LOKAL    /////////
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
