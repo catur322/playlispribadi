@@ -838,7 +838,7 @@ http://69.64.57.208:8080/france5/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="CUBMU",Trans TV
+EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" group-title="CUB MU" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg",Trans TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -847,7 +847,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0b6d2
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="CUBMU",Trans 7
+EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" group-title="CUB MU" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg,Trans 7
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1847,21 +1847,25 @@ https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://webudit.hlsjs.ru/lb/premium123/index.m3u8|Referer=http://weblivehdplay.ru/\u0026User-agent\u003dREDLINECLIENT
 
+https://webudit.vipboxtv.stream/lb/premium124/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb\u003d20200924173634",ASSP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://webudit.vipboxtv.stream/lb/premium124/index.m3u8|Referer=https://ddolahdplay.xyz/\u0026User-agent\u003dREDLINECLIENT
 
+https://webudit.hlsjs.ru/lb/premium125/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASSP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium125/index.m3u8|Referer=http://weblivehdplay.ru/\u0026User-agent\u003dREDLINECLIENT
+https://webudit.hlsjs.ru/lb/premium125/index.m3u8|Referer=http://weblivehdplay.ru/\u0026User-agent\u003dREDLINECLIENT
 
+https://webudit.hlsjs.ru/lb/premium126/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/dtqhym1572377012.png",ASSP 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium126/index.m3u8|Referer=http://weblivehdplay.ru/\u0026User-agent\u003dREDLINECLIENT
+https://webudit.hlsjs.ru/lb/premium126/index.m3u8|Referer=http://weblivehdplay.ru/\u0026User-agent\u003dREDLINECLIENT
 
+https://webudit.hlsjs.ru/lb/premium43/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png",ASSP 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium43/index.m3u8|Referer=http://weblivehdplay.ru/\u0026User-agent\u003dREDLINECLIENT
+https://webudit.hlsjs.ru/lb/premium43/index.m3u8|Referer=http://weblivehdplay.ru/\u0026User-agent\u003dREDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
