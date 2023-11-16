@@ -716,6 +716,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
 
 ########################## INTERNATIONAL TV ##########################
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI (My)
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=571198&extension=ts&play_token=tWSpbbbB5m
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="", AOD 353 (My)
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=571229&extension=ts&play_token=PGUvDKOazf
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="", AOD 351 (My)
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=571226&extension=ts&play_token=iiFj4mSLZK
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="", AOD 352 (My)
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=571225&extension=ts&play_token=1LuQofATAw
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -764,12 +772,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
 https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI (My)
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/1006/default.mpd
 
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",Shenzen TV (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8
