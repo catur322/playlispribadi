@@ -1271,8 +1271,9 @@ https://webudit.hlsjs.ru/lb/premium123/index.m3u8|Referer=http://weblivehdplay.r
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb\u003d20200924173634",ASSP 2
-https://webudit.hlsjs.ru/lb/premium124/index.m3u8
+#https://webudit.hlsjs.ru/lb/premium124/index.m3u8
 
 https://webudit.hlsjs.ru/lb/premium125/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASSP 3
@@ -1283,11 +1284,6 @@ https://webudit.hlsjs.ru/lb/premium126/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/dtqhym1572377012.png",ASSP 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://webudit.hlsjs.ru/lb/premium126/index.m3u8
-
-https://webudit.hlsjs.ru/lb/premium43/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png",ASSP 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-https://webudit.hlsjs.ru/lb/premium43/index.m3u8|Referer=http://weblivehdplay.ru/\u0026User-agent\u003dREDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
