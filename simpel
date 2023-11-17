@@ -1739,6 +1739,14 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png",Aniplus (N*)
 https://mantul.biz.id:443/ekos/748382/265.ts
 
+EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png group-title="MOVIES",Flik
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+
 
 ##############################################################
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO
