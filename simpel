@@ -2167,57 +2167,57 @@ https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2303/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fff5927a2249f094fa3773c390294010:a5a770d88e4403772f36e2313e8e32d0
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png", Paramount
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5056/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5056/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png", Lifetime
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5052/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5052/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png",HITS
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/606/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/606/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/7e/CI_Crime_Investigation_Network_Logo.png", CI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/2111/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2111/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png", FOOD NTWK HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/2300/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2300/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png", AFN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/500/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/500/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png", HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/2502/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2502/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Dmaxhd.png", DMAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/2610/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2610/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/5050/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5050/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png", TLC HD
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/2709/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2709/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png", AWANI HD
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5025/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5025/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/605
@@ -2227,62 +2227,62 @@ https://astro.cdnstreamr.workers.dev/dash-wv/linear/5025/default.mpd
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ch-number="516",CNBC Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/900/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/900/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BNC_v3.png", BERNAMA
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/1114/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/1114/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN HD  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5019
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/5019/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5019/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2503
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/2503/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2503/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png" ch-number="512",BBC World News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1008
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/1008/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/1008/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",Al Jazeera English HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2110
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/2110/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2110/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" ch-number="514",Sky News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bef7fc1bcb6bd7f287def940e38cb10:b0dadd74b713e4b29fd27e147cae7133
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/2102/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2102/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ch-number="516",CNBC Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/900
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/900/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/900/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" ch-number="517",517 Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5020
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/5020/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5020/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ABC_v1.png" ch-number="518",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/904/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/904/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" ch-number="521",DW English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9984
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/9984/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9984/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png" ch-number="522",France 24 English 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9985
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/9985/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9985/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
@@ -2295,93 +2295,93 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ARENA HD
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/2604/default.mpd
 
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2604/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ARENA 2 HD
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5057/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5057/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro Supersport 4
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/9987/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9987/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 ASSP Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5108
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/5108/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5108/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5058/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5058/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5079/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5079/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png", beIN SPORTS
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/408/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/408/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", beIN SPORTS 2
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5066/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5066/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png", Premier Sports
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/2601/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2601/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png", EUROSPORT HD
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/2100/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2100/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png", ASTRO PREMIER
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5128/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5128/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png", ASTRO PREMIER
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5070/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5070/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE NETWORK
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/2603/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2603/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png", GOLF CHANNEL HD
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/1003/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/1003/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5125
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_Rugby_2023.png", beINSportsRugby
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/5125/default.mpd
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5125/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5060/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5060/default.mpd
 
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png", ASTRO CRICKET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/2504/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2504/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/609/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/609/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
 #EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/608/default.mpd
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/608/default.mpd
