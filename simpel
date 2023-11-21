@@ -183,7 +183,9 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="KIDSS",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/pTypkfGy/mentari.png", Mentari tv
+http://103.166.27.2:8112/play/a018/index.m3u8
+http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc3Rte7qwJQ2WFEz9sHdATWI/ts%20
 
 TV LOKAL
 
@@ -527,7 +529,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxMLn71/Aljazeera.png" group-title="NEWS",Al Jazeera Arabic
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Aljazeera Live
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="WION" tvg-name=""WION group-title="NEWS" tvg-logo="", WION (World is One News)
 https://d1tdkdc0esjoxj.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index.m3u8
@@ -587,7 +592,8 @@ https://livestream.zazerconer.workers.dev/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="NEWS",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Aljazeera Live
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
 ########################## LIFESTYLE ##########################
@@ -1368,6 +1374,44 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
 ########################## MOVIES ##########################
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
+#EXTGRP:MOVIES
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", SONY PIX
+#EXTGRP:MOVIES
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282631&extension=ts&play_token=8elHzUlVi6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kWnyqn.png",Star Movies 
+#EXTGRP:MOVIES
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
+http://shareex@195.26.87.217/live?channelId=198&deviceMac=00:1A:79:33:E9:41
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png", STAR MOVIE
+#EXTGRP:MOVIES
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png",Star Movies Select
+#EXTGRP:MOVIES
+http://shareex@195.26.87.217/live?channelId=199&deviceMac=00:1A:79:33:E9:41
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png",Star Movies Select
+#EXTGRP:MOVIES
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png",Star Movies Select
+#EXTGRP:MOVIES
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155729&extension=ts&play_token=vOBlxrufX5
+
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg",AndPrive 
+#EXTGRP:MOVIES
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/andflix-logo.jpg",AndFlix 
+#EXTGRP:MOVIES
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",ON DEMAND CHINA
 #EXTVLCOPT:http-user-agent=aHR0cHM6Ly9xcmVhdGlma3UubXkuaWQgLSBwbGF5bGlzdCBxcmVhdGlma3V0dg==13)
