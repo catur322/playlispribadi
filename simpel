@@ -527,7 +527,18 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1716
 
 
 
+
+
+
+
+
+
 ?????????????????????@TV LOKAL
+
+
+
+
+
 
 
 
@@ -588,8 +599,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://bit.ly/3tMoswx
 
 #EXTINF:-1 tvg-name=MOJI" tvg-id="MOJI" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="TV LOKAL", Moji OTT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -806,8 +816,8 @@ https://h1.intechmedia.net/intech/ch92.m3u8
 https://bit.ly/3sBQgmR
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/net-1.png", NET.(Dens)
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-#http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 
 
