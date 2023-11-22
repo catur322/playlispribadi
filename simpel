@@ -529,6 +529,11 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1716
 
 ?????????????????????@TV LOKAL
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="TV LOKAL",indosiar indihome
+https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="Livestream Alt",kplus indihome
+https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
 
 
 #EXTINF:-1 tvg-id="" group-title="TV LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI 1
