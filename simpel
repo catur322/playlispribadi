@@ -532,10 +532,6 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1716
 #EXTGRP:TV LOKAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="TV LOKAL",kplus indihome
-https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
-
-
 #EXTINF:-1 tvg-id="" group-title="TV LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI 1
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extension=ts&play_token=GVZS088tcf 
 
@@ -663,7 +659,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",iNews
-
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -671,9 +667,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 #EXTINF:-1 tvg-name="TV ONE" tvg-id="TV ONE" group-title="TV LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TV ONE
 #https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8?app_type=web&userid=lite&chname=tvOne
 
-EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png",tvOne HD
-#EXTGRP:TV LOKAL
-http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/296214
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
