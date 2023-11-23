@@ -1,7 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://raw.githubusercontent.com/thefirefox12537/streams/master/astro/bu.m3u8
+https://ogietv.biz.id:443/play/3En1nRaR0x23S4Tt2ZPTbSUvtyR4lIxEQzDlWX7upTo/m3u8
+
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 
 http://103.166.27.2:800/play/a015
 #http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/224
+
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV*
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
