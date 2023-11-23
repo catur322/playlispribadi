@@ -5,10 +5,10 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="NASIONAL",SCTV 
 #https://github.com/thefirefox12537/streams/raw/master/esceteve_2.m3u8
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png",Indosiar 
-#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+#EXTINF:-1 tvg-id="Indosiar"  tvg-name="Indosiar" group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png",Indosiar 
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png" group-title="Qingsports",BT Sports 1
 #http://93.152.174.144:4000/play/btsport1/index.m3u8
