@@ -5,7 +5,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="NASIONAL",SCTV 
 https://github.com/thefirefox12537/streams/raw/master/esceteve_2.m3u8
-##http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:0 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png",Indosiar 
 #http://mpwtv.my.id/vidioye/205-indosiar.m3u8
@@ -20,7 +20,7 @@ https://github.com/thefirefox12537/streams/raw/master/esceteve_2.m3u8
 #EXTINF:-1 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="NASIONAL",SCTV HD*
 http://tvnid.x10.mx/vidio/master-1.m3u8
-##http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L8Cs9Vc2/inspira-tv1.png" group-title="Indonesia 🇮🇩 (server 2)",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
