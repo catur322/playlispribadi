@@ -1,13 +1,9 @@
 #EXT-X-TARGETDURATION:65535
-#EXT-X-VERSION:2
-#EXTINF:65535,
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 
 http://103.166.27.2:800/play/a015
 #http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/224
 
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,RESOLUTION=960x540
+https://raw.githubusercontent.com/catur322/playlispribadi/main/cgsg
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=494559,RESOLUTION=320x240
-http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2402472,RESOLUTION=960x540
-http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
+
+
