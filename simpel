@@ -536,12 +536,6 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1716
 ?????????????????????@TV LOKAL
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/NET.%20SD-FirstMedia-Chl-5.jpg" group-title="TV LOKAL",Net
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/nettv.m3u8
 
@@ -856,6 +850,19 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&ext
 
 ########################## NEWS ##########################
 
+
+#EXTINF:-1 group-title="NEWS",IDTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/idtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/iNews%20SD-FirstMedia-Chl-65.jpg" group-title="NEWS",INews
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/inews.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/MGN%20SD-FirstMedia-Chl-36.jpg" group-title="NEWS",MGN
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="NEWS",CBS News
 http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
@@ -1065,6 +1072,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
 
 ########################## INTERNATIONAL TV ##########################
+
+
+
+
+
+
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI (My)
 http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=571198&extension=ts&play_token=tWSpbbbB5m
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="", AOD 353 (My)
@@ -1332,9 +1345,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1*
 https://mantul.biz.id:443/ekos/748382/241.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="SPORTS", Usee Sport 2
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="SPORTS", Usee Sport 2*
 https://mantul.biz.id:443/ekos/748382/234.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",Premier Sport (F*)
@@ -1382,12 +1396,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel*
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel#
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1592,6 +1606,17 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/beinsports1.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/beinsports3.m3u8
 
 ########################## MOVIES ##########################
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="MOVIES",Bioskop Indonesia
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
 #EXTGRP:MOVIES
