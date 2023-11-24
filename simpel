@@ -542,6 +542,11 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1716
 
 
 
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/NET.%20SD-FirstMedia-Chl-5.jpg" group-title="TV LOKAL",Net
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/nettv.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="TV LOKAL",Nusantara TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/ntv.m3u8
 
 #EXTINF:-1 tvg-id="tvriworld.id" tvg-logo="https://i.imgur.com/K4S5a2w.png",TVRI World
 #EXTGRP:TV LOKAL
