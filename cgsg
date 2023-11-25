@@ -1,4 +1,25 @@
+#EXTM3U
 
+#EXTINF:-2 tvg-id="bein1" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN 1
+https://stream.ayas.ir/hls2/beinsport1.m3u8
+
+#EXTINF:-2 tvg-id="bein2" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN 2
+https://stream.ayas.ir/hls2/beinsport2.m3u8
+
+#EXTINF:-2 tvg-id="bein3" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN 3
+https://stream.ayas.ir/hls2/beinsport3.m3u8
+
+#EXTINF:-2 tvg-id="bein4" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN 4
+https://stream.ayas.ir/hls2/beinsport4.m3u8
+
+#EXTINF:-2 tvg-id="bein5" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN 5
+https://stream.ayas.ir/hls2/beinsport5.m3u8
+
+#EXTINF:-2 tvg-id="ssc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
+https://af.ayassport.ir/hls2/ssc1.m3u8
+
+#EXTINF:-2 tvg-id="ssc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 2
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png", beIN AR 1
 https://stream.ayas.ir/hls2/bein1.m3u8
 
