@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/indosiar.jpg",Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
