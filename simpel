@@ -1605,6 +1605,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/beinsports1.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="SPORTS",beIN Sports 3
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/beinsports3.m3u8
 
+#EXTM3U
 
 #EXTINF:-2 tvg-id="bein1" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png" group-title="SPORTS",beIN 1
 https://stream.ayas.ir/hls2/beinsport1.m3u8
