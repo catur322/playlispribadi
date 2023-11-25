@@ -2,6 +2,19 @@
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://networkbest.ru.com/cdn/premium43/chunks.m3u8
+http://77.92.139.136:8200/playlist.m3u
+
+#EXTINF: -1 tvg-name="Usut Tuntas" tvg-logo="https://unpar.ac.id/wp-content/uploads/2015/11/Logo-Youtube.png" group-title="ONGIS-MBOIS", YOUTUBE "ONGIS-MBOIS" 
+https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+test
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Lokal",Trans TV
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #EXTINF:-1,CHAMPION 1 HD1
 http://www.goldentv.tech:25461/Perfecto/170721/26134
