@@ -533,6 +533,14 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1716
 ?????????????????????@TV LOKAL
 
 
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="TV LOKAL",Magna Channel
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/magnatv.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL",MGN
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mgn.m3u8
+
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/TV%20One%20SD-FirstMedia-Chl-14.jpg", TVONE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
@@ -853,6 +861,12 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&ext
 ########################## NEWS ##########################
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNBC%20Asia%20SD-FirstMedia-Chl-241.jpg" group-title="NEWS",CNBC Indonesia
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cnbcindonesia.m3u8
+
 #EXTINF:-1 group-title="NEWS",IDTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/idtv.m3u8
 
@@ -863,7 +877,11 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/inews.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="NEWS",CBS News
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cbsnews.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNN%20International%20HD-FirstMedia-Chl-396.jpg" group-title="NEWS",CNN Indonesia
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cnnindonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="NEWS",CBS News
 http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
@@ -925,9 +943,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_world_tr.png",TRT World
 https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/trtworld.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/TRT%20World%20SD-FirstMedia-Chl-240.jpg",TRT World
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/trtworld.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxMLn71/Aljazeera.png" group-title="NEWS",Al Jazeera Arabic
 https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
@@ -1658,7 +1677,8 @@ http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="SPORTS",Arena Sport 6 HD
 http://80.252.37.194:5000/udp/233.233.233.8:12000
 
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="SPORTS",Usee Prime
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/useeprime.m3u8
 
 
 
