@@ -1304,21 +1304,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="SPORTS", Usee Sport 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
-
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",Premier Sport (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
 
@@ -1358,11 +1343,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1*
-https://mantul.biz.id:443/ekos/748382/241.ts
+#EXTINF:-1 xui-id="40232" tvg-id="UseeSports" tvg-name="Usee Sport 1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNjhs9noEQY1-pNb_3iRO-vgodta8OCgQl7bf3Cy-Q1tTQJpZE" group-title="SPORT INDO™",Usee Sport 1
+http://www.goldentv.tech:80/play/9qEcc8U-tW5bAHHbQw4gJD2hq9CqswGyQzDOGNU_qn4/ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="SPORTS", Usee Sport 2*
-https://mantul.biz.id:443/ekos/748382/234.ts
+#EXTINF:-1 xui-id="40233" tvg-id="UseeSports2" tvg-name="Usee Sport 2" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREiYjIGHRv81tbjGoJMQeJWDeSaRYAifOcK3a4LhrqbuG3YljB" group-title="SPORT INDO™",Usee Sport 2
+http://www.goldentv.tech:80/play/9qEcc8U-tW5bAHHbQw4gJCpWlElPBiU7hAnB3RoYqmg/ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",Premier Sport (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
