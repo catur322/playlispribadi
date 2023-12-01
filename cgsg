@@ -1,13 +1,8 @@
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Premium Movies", Cinemax 1
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Premium Movies", Cinemax 2
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/221948
+#EXTINF:-1 xui-id="25027" tvg-id="Assp5" tvg-name="Astro Super Sport 5 FHD" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqq3qSkSYKZL_S9PA73i5UQ-aS2N1aIV1xgMw5DNSDzbS2SGN_" group-title="SPORTS™ FHD¹",Astro Super Sport 5 FHD
+http://www.goldentv.tech:80/play/9qEcc8U-tW5bAHHbQw4gJI97ZZynKYKIPn3REpXY0yc/ts
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:0 tvg-id="Cinemax HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Premium Movies", Cinemax _test
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+#EXTINF:-1 xui-id="40232" tvg-id="UseeSports" tvg-name="Usee Sport 1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNjhs9noEQY1-pNb_3iRO-vgodta8OCgQl7bf3Cy-Q1tTQJpZE" group-title="SPORT INDO™",Usee Sport 1
+http://www.goldentv.tech:80/play/9qEcc8U-tW5bAHHbQw4gJD2hq9CqswGyQzDOGNU_qn4/ts
 
+#EXTINF:-1 xui-id="40233" tvg-id="UseeSports2" tvg-name="Usee Sport 2" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREiYjIGHRv81tbjGoJMQeJWDeSaRYAifOcK3a4LhrqbuG3YljB" group-title="SPORT INDO™",Usee Sport 2
+http://www.goldentv.tech:80/play/9qEcc8U-tW5bAHHbQw4gJCpWlElPBiU7hAnB3RoYqmg/ts
