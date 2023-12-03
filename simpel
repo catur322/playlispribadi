@@ -1268,7 +1268,7 @@ https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d45
 https://s.id/1V2Fg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS", MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bacf759768884bc001b192284da04cd:40f0c18b068b72ccff74e4e94c6aded6
@@ -1652,6 +1652,38 @@ http://80.252.37.194:5000/udp/233.233.233.8:12000
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="SPORTS",Usee Prime
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/useeprime.m3u8
+
+#EXTINF:-1 tvg-logo="http://1forallweb.weebly.com/uploads/4/0/7/4/40745081/scsc_orig.png" group-title="SPORT",SSC Extra 3
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002781&extension=ts&play_token=r2L1oHpJb5
+
+#EXTINF:-1 tvg-logo="http://1forallweb.weebly.com/uploads/4/0/7/4/40745081/scsc_orig.png" group-title="SPORT",SSC Extra 2
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002789&extension=ts&play_token=TSpRG00tF2
+
+#EXTINF:-1 tvg-logo="http://1forallweb.weebly.com/uploads/4/0/7/4/40745081/scsc_orig.png" group-title="SPORT",SSC Extra 1
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002797&extension=ts&play_token=TpWfOQ6GkH
+
+#EXTINF:-1 tvg-logo="http://1forallweb.weebly.com/uploads/4/0/7/4/40745081/scsc_orig.png" group-title="SPORT",SSC 5
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002774&extension=ts&play_token=MHkqoL96x3
+
+#EXTINF:-1 tvg-logo="http://1forallweb.weebly.com/uploads/4/0/7/4/40745081/scsc_orig.png" group-title="SPORT",SSC 4
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002778&extension=ts&play_token=oU1RbzaTq2
+
+#EXTINF:-1 tvg-logo="http://1forallweb.weebly.com/uploads/4/0/7/4/40745081/scsc_orig.png" group-title="SPORT",SSC 3
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002785&extension=ts&play_token=LHfEkQrMjc
+
+#EXTINF:-1 tvg-logo="http://1forallweb.weebly.com/uploads/4/0/7/4/40745081/scsc_orig.png" group-title="SPORT",SSC 2
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002793&extension=ts&play_token=7HwePojbP6
+
+#EXTINF:-1 tvg-logo="http://1forallweb.weebly.com/uploads/4/0/7/4/40745081/scsc_orig.png" group-title="SPORT",SSC 1
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002801&extension=ts&play_token=g76T5P8MFu
+
+
+
+
+
+
+
+
 
 
 
